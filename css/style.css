@@ -48,3 +48,10 @@ header h1 {
     height: 77vh;
     overflow-y: auto;
 }
+
+.add--card {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 3em;
+}
